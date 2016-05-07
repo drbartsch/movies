@@ -21,3 +21,15 @@ wizard. Let Python install to its default directory, C:\Python27\. Ensure that b
 pip is installed and that Python is added to your PATH. To confirm that your 
 installation was successful, open IDLE, a program installed by Python that makes it 
 easy to edit and run Python code.
+
+Access the project via the following url, and download the ZIP file:
+
+https://github.com/drbartsch/movies.git
+
+
+How to Run the Project
+-----------
+Open the Python file, "entertainment_center.py" in IDLE, and run the code.
+
+Click on any of the movie posters to open a YouTube link to the movie's trailer. You
+can also click the links that direct to the movie's Rotten Tomatoes and IMDB webpages.
